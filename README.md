@@ -5,6 +5,8 @@ This is a basic to do list application created using React JS. The application i
 To run this application, follow the instructions below:
 
 Clone the repository to your local machine using `git clone https://github.com/<username>/<repository>.git`.
+
+
 Open your terminal and navigate to the project directory by running `cd <path>/<repository>`.
 Install the required dependencies by running `npm install`.
 Start the application by running npm start. This will launch the application on `http://localhost:3000`
