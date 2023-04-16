@@ -8,7 +8,9 @@ Clone the repository to your local machine using `git clone https://github.com/<
 
 
 Open your terminal and navigate to the project directory by running `cd <path>/<repository>`.
+
 Install the required dependencies by running `npm install`.
+
 Start the application by running npm start. This will launch the application on `http://localhost:3000`
 ## Features
 This to do list application has the following features:
