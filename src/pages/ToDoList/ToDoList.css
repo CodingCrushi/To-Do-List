@@ -1,0 +1,84 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    .todolist {
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 600px;
+    }
+    
+    h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    }
+    
+    form {
+    display: flex;
+    margin-bottom: 30px;
+    }
+    
+    label {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 18px;
+    }
+    
+    input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    }
+    
+    button {
+    padding: 10px 20px;
+    background-color: #63a4ff;
+    border: 1px solid #63a4ff;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    }
+    
+    button:hover {
+    background-color: #4e8ae5;
+    border-color: #4e8ae5;
+    }
+    
+    ul {
+    margin: 0;
+    padding: 0;
+    }
+    
+    li {
+    list-style: none;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+    
+    li span {
+    flex: 1;
+    }
+    
+    .remove-button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    background-color: #ff6565;
+    border: 1px solid #ff6565;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+    }
+    
+    .remove-button:hover {
+    background-color: #ff4848;
+    border-color: #ff4848;
+    
+    }    
